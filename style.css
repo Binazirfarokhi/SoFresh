@@ -26,3 +26,13 @@ body{
     margin: auto;
 
 }
+.buttontwo{
+    padding: 10px 30px 10px 30px;
+    border-radius: 15px;
+    background-color: #154d11;
+    color: white ;
+    font-size: 25px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
